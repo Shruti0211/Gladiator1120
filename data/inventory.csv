@@ -1,0 +1,7 @@
+store_id,product_id,quantity,daily_demand,reorder_point
+SEA-101,P100,2,25,10
+SEA-102,P100,80,10,20
+SEA-103,P100,45,8,15
+SEA-101,P200,12,4,10
+SEA-102,P200,8,5,12
+SEA-103,P200,60,3,10
